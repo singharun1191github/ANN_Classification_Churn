@@ -1,4 +1,4 @@
-tensorflow
+tensorflow==3.11
 pandas
 numpy
 matplotlib
